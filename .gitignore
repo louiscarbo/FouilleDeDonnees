@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 .DS_Store
 flickr_data_cleaned.csv
+flickr_data_cleaned.parquet
