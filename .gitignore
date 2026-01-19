@@ -200,6 +200,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+.parquet
+.csv
 
 # Marimo
 marimo/_static/
@@ -208,3 +210,4 @@ __marimo__/
 .DS_Store
 flickr_data_cleaned.csv
 flickr_data_cleaned.parquet
+3_clustering_run.ipynb
